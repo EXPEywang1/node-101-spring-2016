@@ -5,7 +5,7 @@
 - Commit it to your repository
 - Make a pull request to the class repository
 
-### Tasks
+### Tasks - v2
 Your Name:  Ye Wang
 Your Favorite Color:  blue
 Your Favorite Food:   spicy
